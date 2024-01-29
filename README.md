@@ -29,4 +29,5 @@ Recommendations:
 Summarize key insights and propose actionable recommendations for improving sales performance.
 
 CONCLUSION:
+
 By conducting a thorough Walmart sales analysis using SQL, you can provide valuable insights to stakeholders, enabling informed decision-making and strategic planning for the future.
