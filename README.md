@@ -6,23 +6,33 @@ The Walmart Sales Analysis project is a comprehensive examination of sales data 
 
 KEY COMPONENTS:
 
-Data Exploration and Understanding:
+1.Data Exploration and Understanding
+
+
 Begin by exploring the structure of the dataset to understand its tables, columns, and relationships.
 Identify key data points such as sales, date, store, product, and customer information.
 
-Data Cleaning:
+2.Data Cleaning
+
+
 Address missing or erroneous data to ensure the accuracy and reliability of the analysis.
 Handle outliers and anomalies that might affect the results.
 
-Promotion and Discount Analysis:
+3.Promotion and Discount Analysis
+
+
 Investigate the impact of promotions and discounts on sales.
 Evaluate the effectiveness of various marketing strategies.
 
-Profitability Analysis:
+4.Profitability Analysis
+
+
 Calculate and analyze profit margins for different products and stores.
 Identify areas for potential cost reduction or revenue enhancement.
 
-Data Visualization:
+5.Data Visualization
+
+
 Create visual representations of key findings using charts, graphs, and dashboards to make the analysis more accessible and understandable.
 
 Recommendations:
