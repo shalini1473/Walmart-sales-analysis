@@ -8,7 +8,6 @@ KEY COMPONENTS:
 
 1.Data Exploration and Understanding
 
-
 Begin by exploring the structure of the dataset to understand its tables, columns, and relationships.
 Identify key data points such as sales, date, store, product, and customer information.
 
