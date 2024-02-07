@@ -31,7 +31,6 @@ Identify areas for potential cost reduction or revenue enhancement.
 
 5.Data Visualization
 
-
 Create visual representations of key findings using charts, graphs, and dashboards to make the analysis more accessible and understandable.
 
 Recommendations:
