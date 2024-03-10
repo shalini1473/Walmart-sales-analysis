@@ -2,6 +2,7 @@
 
 DESCRPTION:
 
+
 The Walmart Sales Analysis project is a comprehensive examination of sales data from Walmart stores, utilizing SQL (Structured Query Language) for data retrieval, manipulation, and analysis. The project aims to derive meaningful insights and trends from the vast amount of sales-related information available in the dataset.
 
 
